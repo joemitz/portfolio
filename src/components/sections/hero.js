@@ -64,8 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm an Emmy award winning Audio Engineer, Software Engineer and IT Support Specialist with a
-        passion for solving problems and collaborating with teams on complex projects.
+        I'm an Emmy award winning Audio Engineer, Full Stack Software Engineer and IT Support
+        Specialist with a passion for solving problems and collaborating with teams on complex
+        projects.
       </p>
     </>
   );

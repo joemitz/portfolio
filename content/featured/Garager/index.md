@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Garager'
 cover: './garager.png'
 github: 'https://github.com/rpp33-boc-atlantic/garager'

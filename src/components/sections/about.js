@@ -164,7 +164,7 @@ const About = () => {
               solving challenging problems with creative technical solutions. As an Audio Engineer,
               I worked with high profile clients such as the San Francisco Giants, Union Bank and
               PBS. Some of my projects have been award winning, including an advertisement for the
-              SF Giants which won an Emmy award. As an IT Support Specialist I gained experience
+              SF Giants which won an Emmy award. As an IT Support Specialist, I gained experience
               collaborating with teams to solve complex technical problems and support large,
               dynamic userbases.
             </p>
