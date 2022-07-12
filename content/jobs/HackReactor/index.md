@@ -1,6 +1,6 @@
 ---
 date: '2022-01-01'
-title: 'Software Engineering'
+title: 'Software Engineer'
 company: 'Hack Reactor'
 location: 'San Francisco, CA'
 range: 'Sep 2021 - Jun 2022'
