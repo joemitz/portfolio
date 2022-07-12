@@ -3,7 +3,7 @@ date: '2'
 title: 'Atelier Backend'
 cover: './atelierback.png'
 github: 'https://github.com/rpp33-sdc-daisy/qa-service'
-external: '/atelierback.png'
+external: 'http://joemitz.com/atelierback.png'
 tech:
   - Node
   - Docker
