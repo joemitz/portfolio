@@ -1,7 +1,7 @@
 ---
 date: '2020-01-01'
 title: 'Technical Support Specialist'
-company: 'MUSD'
+company: 'MUSD (I.T.)'
 location: 'Stockton, CA'
 range: '2015 - 2021'
 url: 'https://www.mantecausd.net/'

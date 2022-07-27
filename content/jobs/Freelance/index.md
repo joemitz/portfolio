@@ -1,7 +1,7 @@
 ---
 date: '2021-01-01'
 title: 'Audio Engineer'
-company: 'Joemitz'
+company: 'Freelance Audio'
 location: 'San Francisco, CA'
 range: 'Aug 2009 - Present'
 ---
